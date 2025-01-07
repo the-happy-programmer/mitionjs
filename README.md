@@ -1,6 +1,6 @@
-## sa-improved
+## mitionsjs
 
-`sa-improved` is a powerful and versatile library designed to simplify and enhance workflows for validation, schema definition, and error handling in modern applications. Built with a focus on developer experience, it provides a streamlined approach to managing authentication, input validation, and success/error handling, all within a unified and intuitive API.
+`mitionsjs` is a powerful and versatile library designed to simplify and enhance workflows for validation, schema definition, and error handling in modern applications. Built with a focus on developer experience, it provides a streamlined approach to managing authentication, input validation, and success/error handling, all within a unified and intuitive API.
 
 ## Why?
 
@@ -16,11 +16,11 @@
 - **Input Validation**: Validate inputs with precision and flexibility.
 - **Outcome Management**: Centralize how errors and successes are handled to improve control and maintainability.
 
-`sa-improved` is the ideal choice for developers who value simplicity, consistency, and a superior developer experience in managing validation and data workflows.
+`mitionsjs` is the ideal choice for developers who value simplicity, consistency, and a superior developer experience in managing validation and data workflows.
 
 
 to install
 
 ```bash
-npm i sa-improved
+npm i mitionsjs
 ```
